@@ -3877,5 +3877,11 @@
     "url": "https?://steamcommunity.com/app/\\d+/discussions/",
     "nextLink": "//a[@class='pagebtn' and contains(@id,'next')]",
     "pageElement": "//div[@class='forum_topics']"
+  },
+  {
+    "name": "avxhm",
+    "url": "^https?://avxhm.se",
+    "nextLink": "//a[@class='next']",
+    "pageElement": "//div[@class='col-md-9']"
   }
 ]
